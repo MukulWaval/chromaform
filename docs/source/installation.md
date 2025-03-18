@@ -1,23 +1,23 @@
 Installation
 ============
 
-**my-package** supports Python >= 3.8.
+**chromaform** supports Python >= 3.8.
 
 ## Installing with `pip`
 
-**my-package** is available [on PyPI](https://pypi.org/project/my-package/). Just run
+**chromaform** is available [on PyPI](https://pypi.org/project/chromaform/). Just run
 
 ```bash
-pip install my-package
+pip install chromaform
 ```
 
 ## Installing from source
 
-To install **my-package** from source, first clone [the repository](https://github.com/allenai/python-package-template):
+To install **chromaform** from source, first clone [the repository](https://github.com/MukulWaval/chromaform):
 
 ```bash
-git clone https://github.com/allenai/python-package-template.git
-cd python-package-template
+git clone https://github.com/MukulWaval/chromaform.git
+cd chromaform
 ```
 
 Then run
