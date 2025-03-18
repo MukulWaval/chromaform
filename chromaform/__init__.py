@@ -1,7 +1,6 @@
-import logging
-# Import key functions/classes
 from .module1 import function1
 from .module2 import Class1
+import logging
 
 # Setup logging
 logging.getLogger(__name__).addHandler(logging.NullHandler())
